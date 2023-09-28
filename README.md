@@ -15,5 +15,6 @@ Project Outcomes:
 - Used WebSockets as a signalling server to exchange ICE Candidates
 
 
+<img width="1370" alt="Screen Shot 2023-09-28 at 9 26 44 AM" src="https://github.com/aneeshseth/webrtc-meet/assets/122401851/96cfa0d6-2a8c-40a4-8c76-dde80d1c3035">
 
-![image](https://github.com/aneeshseth/webrtc-meet/assets/122401851/c1055b89-ebde-4e44-af21-24f812494267)
+
